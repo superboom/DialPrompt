@@ -5,4 +5,10 @@ Abstract The emergence of text-to-image synthesis (TIS) models has significantly
 
 ## Code Release
 
-Cooming soon
+
+## Train
+
+Our Dialprompt model is build upon Llama3-8b-instruct with LLaMa-factory project, the SFT deployment file provided in `Diaprompt_sft.yaml` and train data located in `data/multi-turn-train.json`
+
+## User friendly evaluation
+Please refer to [USER-Friendly](./dialogue/README.md)
